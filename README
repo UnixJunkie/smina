@@ -29,7 +29,7 @@ not work if the kernel is older than 2.6.24).
 
 If building from source:
 ```
-apt install git libboost-all-dev libopenbabel-dev build-essential libeigen3-dev
+apt install git libboost-all-dev libopenbabel-dev build-essential libeigen3-dev cmake
 git clone https://git.code.sf.net/p/smina/code smina-code
 cd smina-code
 mkdir build
